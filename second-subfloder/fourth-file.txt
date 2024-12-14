@@ -1,1 +1,3 @@
 fourth file test
+
+This file was modified in the new-test branch
